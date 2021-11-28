@@ -5,6 +5,6 @@
 - 📫 How to reach me ... I'm just a student but i will be looking for projects soon!
 
 <!---
-Emmanuel99999/Emmanuel99999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Emmanuel99999/Emmanuel99999 is a special  repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
